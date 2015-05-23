@@ -2,10 +2,10 @@
 <widget id="com.xavier.cgorganizer" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>CG OrganIzer</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Aplicativo para gerenciamento de rodizio das organistas.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="samuelxavi@gmail.com" href="http://phonegap.com">
+        Samuel Xavier
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
