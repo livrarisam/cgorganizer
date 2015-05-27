@@ -745,3 +745,19 @@ button[disabled],
 	outline-style: auto;
 }
 			
+.start_image {
+  display: block;
+  width: 100%;
+  text-align: center;
+}		
+
+.full_button {
+	display: block;
+	width: 100%;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.full_button h3 {
+	margin-bottom: 0 !important;
+}
